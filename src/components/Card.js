@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import '../style.css';
 
+/**Represents the Card component */
 class Card extends React.Component {
 
     render() {
