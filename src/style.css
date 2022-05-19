@@ -1,0 +1,55 @@
+body {
+    background-color: #323140;
+}
+
+.main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 4rem;
+}
+
+.form-container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-container input, label {
+    margin: 12px;
+    height: 38px;
+}
+
+.card-container {
+    width: 27%;
+    margin: 15px 15px 15px 0;
+    font-family: 'Vollkorn', serif;
+    color: #f2f2f2;
+    background-color: #383749;
+    word-wrap: break-word;
+}
+
+.day-of-week {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.temp-container {
+    font-size: 2.7em;
+    font-weight: bold;
+}
+
+.weather-icon {
+    padding: 32px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
