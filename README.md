@@ -1,2 +1,2 @@
 # weather-app 
-This repository was created for my time application
+This repository was created for my Weather App
